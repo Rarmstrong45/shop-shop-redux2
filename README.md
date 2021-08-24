@@ -1,4 +1,4 @@
-# 🛍️-Shop-Shop-Redux
+#-Shop-Shop-Redux
 
 ## Project Description
 This project refactors a fictional e-commerce application to use Redux for global state control, paired with a React front end, Node.js and Express.js for the back-end server, and MongoDB for the database. Stripe is used for payments.  
